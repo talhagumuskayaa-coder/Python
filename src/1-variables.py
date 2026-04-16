@@ -3,7 +3,7 @@
 # ==========================================
 
 # ------ Değişken Atama ------
-age = 20 ## 'age' atadığımız değişkenin ismidir.
+age = 20 ## 'age' atadığımız değişkenin ismidir
 
 print(age)
 
